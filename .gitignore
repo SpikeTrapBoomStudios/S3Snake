@@ -1,0 +1,48 @@
+# .NET/C#
+bin/
+obj/
+[Bb]uild/
+[Rr]elease/
+x64/
+x86/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+Debug/
+Release/
+*.user
+*.userosscache
+*.sln.docstates
+
+# MonoGame/XNA
+Content/bin/
+Content/obj/
+
+# Project Specific
+Builds/
+
+# JetBrains Rider
+.idea/
+*.sln.DotSettings.user
+
+# Visual Studio Code
+.vscode/
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+!.vscode/*.code-snippets
+
+# Visual Studio
+.vs/
+[Tt]est[Rr]esults/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.dll
+*.exe
+*.pdb
+
+# OS specific
+.DS_Store
+Thumbs.db
