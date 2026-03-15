@@ -1,2 +1,3 @@
 # S3Snake
-A small slitherio clone written in C# with monogame.
+​A small slitherio clone written almost entirely in C#, using the monogame library. This was a little project I gave myself to do, it took me about 3 days, with learning monogame for the first time.
+You are free to do whatever you please with this.
